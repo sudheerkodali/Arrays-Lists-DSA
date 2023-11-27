@@ -11,8 +11,8 @@ Here there are important DSA concepts, one of which is "Arrays and Lists" progra
 
 # Important points about Arrays & List
 
-# ARRAYS
+# Arrays
 *Arrays have a fixed length, which means that the number of elements in an array cannot be changed after it is created. However, you can add or remove elements from an array by using methods like push(), pop(), shift(), and unshift().
 
-# LIST
+# List
 *Lists are dynamic, which means that the number of elements in a list can grow or shrink as needed. You can add or remove elements from a list by using methods like push(), pop(), shift(), and unshift().
