@@ -16,3 +16,6 @@ Here there are important DSA concepts, one of which is "Arrays and Lists" progra
 
 # List
 *Lists are dynamic, which means that the number of elements in a list can grow or shrink as needed. You can add or remove elements from a list by using methods like push(), pop(), shift(), and unshift().
+
+
+
