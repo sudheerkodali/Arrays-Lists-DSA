@@ -4,7 +4,7 @@ DSA-arrays-Lists
 | NO.| **Arrays-lists**                                                                                                                                                         |
 | ---| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | **types of Arrays-lists**                                                                                                                                                |
-
+| 1  | [what-are-Arrays-and-how-they-are-stored](#)                                                                                                                             |
 Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows
 <ul>
   
