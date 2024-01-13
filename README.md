@@ -4,11 +4,15 @@ DSA-arrays-Lists
 
 | NO.|   Questions                                                                                                                                                              |
 | ---| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | **types of Arrays-lists**                                                                                                                                                |
+|    | **Types of Arrays-lists**                                                                                                                                                |
 | 1  | [what-are-Arrays-and-how-they-are-stored](#)                                                                                                                             |
-|
+| 2  | [How-are-Arrays-accessed](#)                                                                                                                                             |
+| 3  | [Disadvantages-of-standard-arrays](#)                                                                                                                                    |
+| 4  | [How-are-resizable-Arrays-Implemented](#)                                                                                                                                |
+| 5  | [Resizable-Arrays-Implementation](#)                                                                                                                                     |
+| 6  | [Resizable-Arrays-complexity-analysis](#)                                                                                                                                |
 Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows
-<ul>
+<!--<ul>
   
 <li>what are Arrays and how they are stored <br>
 <li>How are Arrays accessed <br>
@@ -17,7 +21,7 @@ Here there are important DSA concepts, one of which is "Arrays and Lists" progra
 <li>Resizable arrays implementation <br>
 <li>Resizable arrays complexity analysis <br>
 
-</ul>
+</ul>-->
 
 # Important points about Arrays & List
 
