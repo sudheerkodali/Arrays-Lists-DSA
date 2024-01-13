@@ -1,11 +1,9 @@
 # Arrays-Lists
 DSA-arrays-Lists 
 
-| NO.| **Arrays-lists**
-|
+| NO.| **Arrays-lists**                                                                                                                                                         |
 | ---| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | **types of Arrays-lists**
-|
+|    | **types of Arrays-lists**                                                                                                                                                |
 
 Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows
 <ul>
