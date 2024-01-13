@@ -1,14 +1,21 @@
 # Arrays-Lists
 DSA-arrays-Lists 
+
+| NO.| ** Arrays-lists **
+|
+| ---| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | ** types of Arrays-lists **
+|
+
 Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows
 <ul>
   
-*<li>what are Arrays and how they are stored <br>
-*<li>How are Arrays accessed <br>
-*<li>Disadvantages of standard arrays <br>
-*<li>How are Resizable arrays implemented <br>
-*<li>Resizable arrays implementation <br>
-*<li>Resizable arrays complexity analysis <br>
+<li>what are Arrays and how they are stored <br>
+<li>How are Arrays accessed <br>
+<li>Disadvantages of standard arrays <br>
+<li>How are Resizable arrays implemented <br>
+<li>Resizable arrays implementation <br>
+<li>Resizable arrays complexity analysis <br>
 
 </ul>
 
