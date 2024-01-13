@@ -11,7 +11,8 @@ DSA-arrays-Lists
 | 4  | [How-are-resizable-Arrays-Implemented](#)                                                                                                                                |
 | 5  | [Resizable-Arrays-Implementation](#)                                                                                                                                     |
 | 6  | [Resizable-Arrays-complexity-analysis](#)                                                                                                                                |
-Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows
+
+<p>Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows</p>
 <!--<ul>
   
 <li>what are Arrays and how they are stored <br>
