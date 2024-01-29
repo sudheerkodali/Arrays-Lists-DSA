@@ -30,6 +30,10 @@ DSA-arrays-Lists
 * Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it for instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below 
 ![Arrays-list](./ArraysStored1/image1.png)
 
+# Arrays-stored:
+<How arrays are stored</>
+![Arrays-list](./ArraysStored1/image2.png)
+
 
 
 
