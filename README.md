@@ -26,6 +26,7 @@ DSA-arrays-Lists
 
 # Important points about Arrays & List
 
+# Arrays-List;
 ![Arrays-list](./Arrays-Lists-DSA/ArraysStored1/image1.png)
 
 
