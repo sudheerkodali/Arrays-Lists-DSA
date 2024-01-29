@@ -32,7 +32,15 @@ DSA-arrays-Lists
 
 # Arrays-stored:
 <How arrays are stored</>
-![Arrays-list](./ArraysStored1/image2.png)
+![Arrays-list](./ArraysStored2/image2.png)
+
+# Arrays-
+<></>
+![Arrays-list](./ArraysStored3/image3.png)
+
+# Arrays-
+<></>
+![Arrays-list](./ArraysStored1/image4.png)
 
 
 
