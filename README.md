@@ -42,19 +42,18 @@ DSA-arrays-Lists
 **
 ![Arrays-list](./ArraysStored1/image4.png)
 
-# :
-**
-![](./)
 
 
 
-
+<ol>
 # Arrays
-*Arrays have a fixed length, which means that the number of elements in an array cannot be changed after it is created. However, you can add or remove elements from an array by using methods like push(), pop(), shift(), and unshift().
+<li>*Arrays have a fixed length, which means that the number of elements in an array cannot be changed after it is created. However, you can add or remove elements from an array by using methods like push(), pop(), shift(), and unshift().</li>
 
 # List
-*Lists are dynamic, which means that the number of elements in a list can grow or shrink as needed. You can add or remove elements from a list by using methods like push(), pop(), shift(), and unshift().
+<li>*Lists are dynamic, which means that the number of elements in a list can grow or shrink as needed. You can add or remove elements from a list by using methods like push(), pop(), shift(), and unshift().</li>
 
 # Arrays and Lists how it works 
-* Resiable arrays implementation & resiablle arrays implement with complex structure
+<li>* Resiable arrays implementation & resiablle arrays implement with complex structure </li>
+
+</ol>
 
