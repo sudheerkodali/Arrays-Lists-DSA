@@ -34,13 +34,13 @@ DSA-arrays-Lists
 <How arrays are stored</>
 ![Arrays-list](./ArraysStored2/image2.png)
 
-# Arrays-
+# Arrays-stord:
 <></>
 ![Arrays-list](./ArraysStored3/image3.png)
 
-# Arrays-
+# Arrays-stored:
 <></>
-![Arrays-list](./ArraysStored1/image4.png)
+![Arrays-list](./ArraysStored4/image4.png)
 
 
 
