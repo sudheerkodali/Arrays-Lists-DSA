@@ -31,16 +31,19 @@ DSA-arrays-Lists
 ![Arrays-list](./ArraysStored1/image1.png)
 
 # :
-<p> How Arrays are stored </p>
+**
 ![Arrays-list](./ArraysStored1/image2.png)
 
 # :
+**
 ![Arrays-list](./ArraysStored1/image3.png)
 
 # :
+**
 ![Arrays-list](./ArraysStored1/image4.png)
 
 # :
+**
 ![](./)
 
 
