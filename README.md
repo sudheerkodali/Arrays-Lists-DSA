@@ -29,34 +29,36 @@ DSA-arrays-Lists
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
 # 1:
-**
+![Arrays-list](./ArraysStored1/image1.png)
+
 # 2:
-**
+![Arrays-list](./ArraysStored1/image2.png)
+
 # 3.
-**
+![Arrays-list](./ArraysStrored1/image3.png)
+
 
 
  
 | 2  | [How-are-Arrays-accessed](#)   
 
-<!--# What are arrays and how they are stored-->
-
 
 # 1 :
 * Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below *
-![Arrays-list](./ArraysStored1/image1.png)
+* 
+![Arrays-list](./ArraysAccessed2/image1.png)
 
 # 2 :
 **
-![Arrays-list](./ArraysStored1/image2.png)
+![Arrays-list](./ArraysAccessed2/image2.png)
 
 # 3:
 **
-![Arrays-list](./ArraysStored1/image3.png)
+![Arrays-list](./ArraysAccessed2/image3.png)
 
 # 4:
 **
-![Arrays-list](./ArraysStored1/image4.png)
+![Arrays-list](./ArraysAccessed2/image4.png)
 
 
 
