@@ -34,7 +34,7 @@ DSA-arrays-Lists
 # 2:
 ![Arrays-list](./ArraysStored1/image2.png)
 
-# 3.
+# 3:
 ![Arrays-list](./ArraysStrored1/image3.png)
 
 
