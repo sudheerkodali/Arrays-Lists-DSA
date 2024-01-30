@@ -25,6 +25,17 @@ DSA-arrays-Lists
 </ul>-->
 
 # Important points about Arrays & List
+
+| 1  | [what-are-Arrays-and-how-they-are-stored](#) 
+
+# 1:
+**
+# 2:
+**
+# 3.
+**
+
+
  
 | 2  | [How-are-Arrays-accessed](#)   
 
