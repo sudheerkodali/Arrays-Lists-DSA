@@ -66,15 +66,15 @@ DSA-arrays-Lists
 | 3  | [Disadvantages-of-standard-arrays](#)   
 
 # 1:
-**
+
 ![Arrays-list](./DisadvantageSdarry3/image1.png)
 
 # 2:
-**
+
 ![Arrays-list](./DisadvantageSdarry3/image2.png)
 
 # 3:
-**
+
 ![Arrays-list](./DisadvantageSdarry3/image3.png)
 
 
