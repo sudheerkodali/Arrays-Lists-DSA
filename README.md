@@ -78,6 +78,56 @@ DSA-arrays-Lists
 ![Arrays-list](./DisadvantageSdarray3/image3.png)
 
 
+| 4  | [How-are-resizable-Arrays-Implemented](#) 
+
+# 1:
+
+![Arrays-list](./ResiArrayImpled4/image1.png)
+
+# 2:
+
+![Arrays-list](./ResiArrayImpled4/image2.png)
+
+# 3:
+
+![Arrays-list](./ResiArrayImpled4/image3.png)
+
+# 4:
+![Arrays-list](./ResiArrayImpled4/image4.png)
+
+# 5:
+![Arrays-list](./ResiArrayImpled4/image5.png)
+
+# 6:
+![Arrays-list](./ResiArrayImpled4/image6.png)
+
+# 7:
+![Arrays-list](./ResiArrayImpled4/image7.png)
+
+# 8:
+![Arrays-list](./ResiArrayImpled4/image8.png)
+
+# 9:
+![Arrays-list](./ResiArrayImpled4/image9.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
