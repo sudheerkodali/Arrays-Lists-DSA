@@ -63,6 +63,11 @@ DSA-arrays-Lists
 
 
 
+| 3  | [Disadvantages-of-standard-arrays](#)   
+
+# 1:
+
+
 <ol>
 # Arrays
 <li>*Arrays have a fixed length, which means that the number of elements in an array cannot be changed after it is created. However, you can add or remove elements from an array by using methods like push(), pop(), shift(), and unshift().</li>
