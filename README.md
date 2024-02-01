@@ -67,15 +67,15 @@ DSA-arrays-Lists
 
 # 1:
 
-![Arrays-list](./DisadvantageSdarry3/image1.png)
+![Arrays-list](./DisadvantageSdarray3/image1.png)
 
 # 2:
 
-![Arrays-list](./DisadvantageSdarry3/image2.png)
+![Arrays-list](./DisadvantageSdarray3/image2.png)
 
 # 3:
 
-![Arrays-list](./DisadvantageSdarry3/image3.png)
+![Arrays-list](./DisadvantageSdarray3/image3.png)
 
 
 
