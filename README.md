@@ -45,7 +45,7 @@ DSA-arrays-Lists
 
 # 1 :
 * Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below *
-* 
+ 
 ![Arrays-list](./ArraysAccessed2/image1.png)
 
 # 2 :
@@ -66,6 +66,24 @@ DSA-arrays-Lists
 | 3  | [Disadvantages-of-standard-arrays](#)   
 
 # 1:
+**
+![Arrays-list](./DisadvantageSdarry3/image1.png)
+
+# 2:
+**
+![Arrays-list](./DisadvantageSdarry3/image2.png)
+
+# 3:
+**
+![Arrays-list](./DisadvantageSdarry3/image3.png)
+
+
+
+
+
+
+
+
 
 
 <!--<ol>
