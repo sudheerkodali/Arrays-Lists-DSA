@@ -1,16 +1,21 @@
 # Arrays-Lists
 DSA-arrays-Lists 
+
+-----
+-----
+
+
 ## DSA-Arrays-list ##
 
-| NO.|   Questions                                                                                                                                                              |
+| NO.|   Questions                                                                                                                                                             |
 | ---| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | **Types of Arrays-lists**                                                                                                                                                |
-| 1  | [what-are-Arrays-and-how-they-are-stored](#)                                                                                                                             |
-| 2  | [How-are-Arrays-accessed](#)                                                                                                                                             |
-| 3  | [Disadvantages-of-standard-arrays](#)                                                                                                                                    |
-| 4  | [How-are-resizable-Arrays-Implemented](#)                                                                                                                                |
-| 5  | [Resizable-Arrays-Implementation](#)                                                                                                                                     |
-| 6  | [Resizable-Arrays-complexity-analysis](#)                                                                                                                                |
+|    | **Types of Arrays-lists**                                                                                                                                               |
+| 1  | [what-are-Arrays-and-how-they-are-stored](#)                                                                                                                            |
+| 2  | [How-are-Arrays-accessed](#)                                                                                                                                            |
+| 3  | [Disadvantages-of-standard-arrays](#)                                                                                                                                   |
+| 4  | [How-are-resizable-Arrays-Implemented](#)                                                                                                                               |
+| 5  | [Resizable-Arrays-Implementation](#)                                                                                                                                    |
+| 6  | [Resizable-Arrays-complexity-analysis](#)                                                                                                                               |
 
 <p>Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows</p>
 <!--<ul>
