@@ -1,9 +1,5 @@
 # Arrays-Lists
-DSA-arrays-Lists 
-
 -----
-
-
 
 ### DSA Arrays List
 
