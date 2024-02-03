@@ -111,14 +111,26 @@ DSA-arrays-Lists
 ![Arrays-list](./ResiArrayImpled4/image9.png)
 
 
+| 5  | [Resizable-Arrays-Implementation](#)
+* programming *
 
 
+| 6  | [Resizable-Arrays-complexity-analysis](#)  
 
+# 1:
+![Arrays-list](./ReArrayComplexAnalysis6/image1.png)
 
+# 2:
+![Arrays-list](./ReArrayComplexAnalysis6/image2.png)
 
+# 3:
+![Arrays-list](./ReArrayComplexAnalysis6/image3.png)
 
+# 4:
+![Arrays-list](./ReArrayComplexAnalysis6/image4.png)
 
-
+# 5:
+![Arrays-list](./ReArrayComplexAnalysis6/image5.png)
 
 
 
