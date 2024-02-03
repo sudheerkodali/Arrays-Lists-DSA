@@ -5,7 +5,7 @@ DSA-arrays-Lists
 -----
 
 
-## DSA-Arrays-list ##
+### DSA Arrays List
 
 | NO.|   Questions                                                                                                                                                             |
 | ---| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -117,7 +117,7 @@ DSA-arrays-Lists
 
 
 | 5  | [Resizable-Arrays-Implementation](#)
-* programming *
+
 
 
 | 6  | [Resizable-Arrays-complexity-analysis](#)  
@@ -139,7 +139,7 @@ DSA-arrays-Lists
 
 
 
-
+ **[⬆ Back to Top](#DSA-Arrays-List)**
 
 
 
