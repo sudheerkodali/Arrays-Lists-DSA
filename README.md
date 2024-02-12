@@ -29,11 +29,10 @@
 
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
- # 1:  *An Array is a collections of integers in one format*
+# 1:  *An Array is a collections of integers in one format*
 ![Arrays-list](./ArraysStored1/image1.png)
 
-# 2: 
-*Array has each data elecated with '4' bits , how many numbers we have taken, for instance: 4*6 coloum's=20 bits =>4 is bis & 5 is coloums *
+# 2: *Array has each data elecated with '4' bits , how many numbers we have taken, for instance: 4*6 coloum's=20 bits =>4 is bis & 5 is coloums *
 ![Arrays-list](./ArraysStored1/image2.png)
 
 # 3:
@@ -45,8 +44,7 @@
 | 2  | [How-are-Arrays-accessed](#)   
 
 
-# 1 :
-* Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below *
+# 1 : * Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below *
  
 ![Arrays-list](./ArraysAccessed2/image1.png)
 
