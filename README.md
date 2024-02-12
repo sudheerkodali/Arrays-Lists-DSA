@@ -25,7 +25,7 @@
 
 </ul>-->
 
-# Important points about Arrays & List
+<!--# Important points about Arrays & List-->
 
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
