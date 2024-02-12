@@ -14,18 +14,7 @@
 | 6  | [Resizable-Arrays-complexity-analysis](#)                                                                                                                               |
 
 <p>Here there are important DSA concepts, one of which is "Arrays and Lists" programming in Java scripting. The main concepts are as follows</p>
-<!--<ul>
-  
-<li>what are Arrays and how they are stored <br>
-<li>How are Arrays accessed <br>
-<li>Disadvantages of standard arrays <br>
-<li>How are Resizable arrays implemented <br>
-<li>Resizable arrays implementation <br>
-<li>Resizable arrays complexity analysis <br>
 
-</ul>-->
-
-<!--# Important points about Arrays & List-->
 
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
@@ -34,7 +23,7 @@
   ![Arrays-list](./ArraysStored1/image1.png)
 
 # 2: Stored with 4 bits
-    Array has each data elecated with '4' bits, and the numbers we have taken, for instance: 4*6 coloum's=20 bits =>4 is bis & 5 is coloums.
+    Array has each data elecated with '4' bits, and the numbers we have taken 1'row' 6 'coloums', for instance: 4*6 coloum's=24 bits =>4 is bits & 6 is coloums.
   ![Arrays-list](./ArraysStored1/image2.png)
 
 # 3:
