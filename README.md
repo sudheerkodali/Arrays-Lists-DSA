@@ -33,8 +33,8 @@
     An Array is a collections of integers in one format
   ![Arrays-list](./ArraysStored1/image1.png)
 
-# 2: 
-    *Array has each data elecated with '4' bits , how many numbers we have taken, for instance: 4*6 coloum's=20 bits =>4 is bis & 5 is coloums *
+# 2: Stored with 4 bits
+    *Array has each data elecated with '4' bits, and the numbers we have taken, for instance: 4*6 coloum's=20 bits =>4 is bis & 5 is coloums *
   ![Arrays-list](./ArraysStored1/image2.png)
 
 # 3:
