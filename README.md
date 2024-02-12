@@ -19,14 +19,15 @@
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
  # 1:  Arrays stored
-    An Array is a collections of integers in one format.
+    An Array is a collections of data types in one format.
   ![Arrays-list](./ArraysStored1/image1.png)
 
 # 2: Stored with 4 bits </h3>
-    Array has each data elecated with '4' bits, and the numbers we have taken 1'row' 6 'coloums', for instance: 4*6 coloum's=24 bits =>4 is bits & 6 is coloums.
-  ![Arrays-list](./ArraysStored1/image2.png)
+   * Array has each data elecated with '4' bits, and the numbers we have taken 1'row' 6 'coloums', for instance: 4*6 coloum's=24 bits =>4 is bits & 6 is coloums.
+  ![Arrays-list](./ArraysStored1/image2.png)*
 
 # 3: Total memory alocation
+**
   ![Arrays-list](./ArraysStored1/image3.png)
 
 
