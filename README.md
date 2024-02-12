@@ -35,7 +35,6 @@
  
 | 2  | [How-are-Arrays-accessed](#)   
 
-
 # 1 : Arrays access-left-right
 * Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below *
  
@@ -105,7 +104,7 @@
 
 
 | 5  | [Resizable-Arrays-Implementation](#)
-
+# 1: programming part
 
 
 | 6  | [Resizable-Arrays-complexity-analysis](#)  
