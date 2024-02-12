@@ -29,8 +29,8 @@
 
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
-# 1:  
-    <p>An Array is a collections of integers in one format</p>
+### 1:  
+    An Array is a collections of integers in one format
   ![Arrays-list](./ArraysStored1/image1.png)
 
 # 2: 
