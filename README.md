@@ -27,7 +27,7 @@
   ![Arrays-list](./ArraysStored1/image2.png)
 
 # iii: Total memory alocation
-*Suppose if we have taken memory alocated with 8-gb is the data base server, then it actually depends on how many datatypes we have taken , here I initiated with [10,14,18,22,26,30,34] each space occupy with 4 bits and added to further number in the below image [0,1,2,3,4,5]=>[10,14,18,22,26,30,34] *
+*Suppose if we have taken memory alocated with 8-gb is the data base server, then it actually depends on how many datatypes(Integer) we have taken , here I initiated with [10,14,18,22,26,30,34] each space occupy with 4 bits and added to further number in the below image [0,1,2,3,4,5]=>[10,14,18,22,26,30,34] *
   ![Arrays-list](./ArraysStored1/image3.png)
 
 
