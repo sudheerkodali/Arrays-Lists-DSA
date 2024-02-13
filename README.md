@@ -27,7 +27,7 @@
   ![Arrays-list](./ArraysStored1/image2.png)
 
 # iii: Total memory alocation
-**
+*Suppose if we have taken memory alocated with 8-gb is the data base server then it actually it depends on how many datatypes we have taken , here I inishited with [10,] *
   ![Arrays-list](./ArraysStored1/image3.png)
 
 
