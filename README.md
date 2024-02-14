@@ -19,7 +19,7 @@
 | 1  | [what-are-Arrays-and-how-they-are-stored](#) 
 
  # i:  Arrays stored
-    An Array is a collections of data types in one format.
+    *An Array is a collections of data types in one format.*
   ![Arrays-list](./ArraysStored1/image1.png)
 
 # ii: Stored with 4 bits 
