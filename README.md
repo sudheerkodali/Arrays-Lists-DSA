@@ -35,20 +35,20 @@ Suppose if we have taken memory alocated with 8-gb is the data base server, then
  
 | 2  | [How-are-Arrays-accessed](#)   
 
-# 1 : Arrays access-left-right
+# 2.1 : Arrays access-left-right
  Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below 
  
 ![Arrays-list](./ArraysAccessed2/image1.png)
 
-# 2 :
+# 2.2 :
 **
 ![Arrays-list](./ArraysAccessed2/image2.png)
 
-# 3:
+# 2.3:
 **
 ![Arrays-list](./ArraysAccessed2/image3.png)
 
-# 4:
+# 2.4:
 **
 ![Arrays-list](./ArraysAccessed2/image4.png)
 
@@ -57,60 +57,60 @@ Suppose if we have taken memory alocated with 8-gb is the data base server, then
 
 | 3  | [Disadvantages-of-standard-arrays](#)   
 
-# 1:
+# 3.1:
 
 ![Arrays-list](./DisadvantageSdarray3/image1.png)
 
-# 2:
+# 3.2:
 
 ![Arrays-list](./DisadvantageSdarray3/image2.png)
 
-# 3:
+# 3.3:
 
 ![Arrays-list](./DisadvantageSdarray3/image3.png)
 
 
 | 4  | [How-are-resizable-Arrays-Implemented](#) 
 
-# 1:
+# 4.1:
 
 ![Arrays-list](./ResiArrayImpled4/image1.png)
 
-# 2:
+# 4.2:
 
 ![Arrays-list](./ResiArrayImpled4/image2.png)
 
-# 3:
+# 4.3:
 
 ![Arrays-list](./ResiArrayImpled4/image3.png)
 
-# 4:
+# 4.4:
 ![Arrays-list](./ResiArrayImpled4/image4.png)
 
-# 5:
+# 4.5:
 ![Arrays-list](./ResiArrayImpled4/image5.png)
 
-# 6:
+# 4.6:
 ![Arrays-list](./ResiArrayImpled4/image6.png)
 
-# 7:
+# 4.7:
 ![Arrays-list](./ResiArrayImpled4/image7.png)
 
-# 8:
+# 4.8:
 ![Arrays-list](./ResiArrayImpled4/image8.png)
 
-# 9:
+# 4.9:
 ![Arrays-list](./ResiArrayImpled4/image9.png)
 
 
 | 5  | [Resizable-Arrays-Implementation](#)
-# 1: programming part
+# 5.1: programming part
 ![Array-list](./ResiArrayImpleon5/image1.png)
 
-# 2: programming part
+# 5.2: programming part
 ![Array-list](./ResiArrayImpleon5/image2.png)
 
-# 3: programming part
+# 5.3: programming part
 ![Array-list](./ResiArrayImpleon5/image3.png)
 
 
