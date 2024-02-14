@@ -23,11 +23,11 @@
   ![Arrays-list](./ArraysStored1/image1.png)
 
 # ii: Stored with 4 bits 
-   * Array has each data elecated with '4' bits, and the numbers we have taken 1'row' 6 'coloums', for instance: 4*6 coloum's=24 bits =>4 is bits & 6 is coloums.*
+    Array has each data elecated with '4' bits, and the numbers we have taken 1'row' 6 'coloums', for instance: 4*6 coloum's=24 bits =>4 is bits & 6 is coloums.*
   ![Arrays-list](./ArraysStored1/image2.png)
 
 # iii: Total memory alocation
-*Suppose if we have taken memory alocated with 8-gb is the data base server, then it actually depends on how many datatypes(Integer) we have taken , here I initiated with [10,14,18,22,26,30,34] each space occupy with 4 bits and added to further number in the below image [0,1,2,3,4,5]=>[10,14,18,22,26,30,34] *
+Suppose if we have taken memory alocated with 8-gb is the data base server, then it actually depends on how many datatypes(Integer) we have taken , here I initiated with [10,14,18,22,26,30,34] each space occupy with 4 bits and added to further number in the below image [0,1,2,3,4,5]=>[10,14,18,22,26,30,34] 
   ![Arrays-list](./ArraysStored1/image3.png)
 
 
@@ -36,7 +36,7 @@
 | 2  | [How-are-Arrays-accessed](#)   
 
 # 1 : Arrays access-left-right
-* Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below *
+ Arrays conatains 'INTERGERS' and every integer contains 4-BITS and initially stars with left side with 10 and 'ADD' 4-BITS to it, For instancce [ 10, 10+4=14, 14+4=18 ] etc and information as given below 
  
 ![Arrays-list](./ArraysAccessed2/image1.png)
 
