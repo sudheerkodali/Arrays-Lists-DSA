@@ -105,6 +105,14 @@
 
 | 5  | [Resizable-Arrays-Implementation](#)
 # 1: programming part
+![Array-list](./ResiArrayImpleon5/image1.png)
+
+# 2: programming part
+![Array-list](./ResiArrayImpleon5/image2.png)
+
+# 3: programming part
+![Array-list](./ResiArrayImpleon5/image3.png)
+
 
 
 | 6  | [Resizable-Arrays-complexity-analysis](#)  
