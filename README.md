@@ -23,7 +23,7 @@
   ![Arrays-list](./ArraysStored1/image1.png)
 
 # ii: Stored with 4 bits 
-    Array has each data elecated with '4' bits, and the numbers we have taken 1'row' 6 'coloums', for instance: 4*6 coloum's=24 bits =>4 is bits & 6 is coloums.*
+    Array has each integer elements with '4' bits, and the numbers we have taken in  1'row' and 6 'coloums', for instance: 4*6 coloum's=24 bits => that means 4 is bits & 6 is coloums.
   ![Arrays-list](./ArraysStored1/image2.png)
 
 # iii: Total memory alocation
